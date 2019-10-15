@@ -1,0 +1,8 @@
+-> Proportion of pages with no in-links:
+0.26153633041013563
+
+-> Proportion of pages with no out-links (sinks):
+0.6106641661427643
+
+-> Proportion of pages with PR less than initial PR:
+0.844853857875052
